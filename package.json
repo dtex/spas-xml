@@ -1,7 +1,7 @@
 {
   "name": "spas-xml",
   "description": "Default XML wrapper for spas",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": {
     "name": "Donovan Buck",
     "email": "donovan@donovan.bz",
@@ -27,7 +27,7 @@
   "engines": {
     "node": ">= 0.8.0"
   },
-  "readme": "# spas-xml\n\nDefault XML wrapper for spas\n\n## Installation\n\n### Installing little-spas\n``` bash\n$ [sudo] npm install little-spas\n```\n\n### Installing spas-xml\n``` bash\n$ [sudo] npm install spas-xml\n```\n\n## Documentation spas-xml documentation can be found at http://dtex.github.com/spas-xml\n\n",
+  "readme": "# spas-xml\n\nDefault XML wrapper for spas\n\n## Installation\n\n### Installing spas\n``` bash\n$ [sudo] npm install spas\n```\n\n### Installing spas-xml\n``` bash\n$ [sudo] npm install spas-xml\n```\n\n## Documentation spas-xml documentation can be found at http://dtex.github.com/spas-xml\n\n",
   "bugs": {
     "url": "https://github.com/dtex/spas-xml/issues"
   }
