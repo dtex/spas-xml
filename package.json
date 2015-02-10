@@ -21,7 +21,7 @@
   "dependencies": {
     "request": "2.x.x",
     "underscore": "1.x.x",
-    "libxmljs": "0.8.1"
+    "libxmljs": "0.13.0"
   },
   "main": "./api.js",
   "engines": {
