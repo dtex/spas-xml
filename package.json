@@ -21,7 +21,7 @@
   "dependencies": {
     "request": "2.x.x",
     "underscore": "1.x.x",
-    "libxmljs": "0.18.7",
+    "libxmljs": "^0.19.5",
     "unzip": "^0.1.11"
   },
   "main": "./api.js",
